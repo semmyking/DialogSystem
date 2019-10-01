@@ -21,7 +21,6 @@ en hoe je met code aan kan geven welke lijnen je precies wilt uitlezen.
 
 #Planning:
 Ik heb Zaterdag 28-09-2019, van 14.00 tot 17.00 gewerkt aan dit project.
-Ik heb Zondag 29-09-2019, van 12.00 tot 13.30 gewerkt aan dit project
 Ik heb Maandag 30-09-2019, van 10.45 tot 11.45 gewerkt aan dit project.
 
 #Bronnen lijst
